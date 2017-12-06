@@ -1,3 +1,4 @@
 # Hello-world
 Just another repo
-its is in edit branch
+this is another quick guide for the github
+https://guides.github.com/activities/hello-world/
